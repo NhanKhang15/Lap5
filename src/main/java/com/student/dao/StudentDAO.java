@@ -1,16 +1,22 @@
 package com.student.dao;
 
-import com.student.model.Student;
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
+
+import com.student.model.Student;
 
 public class StudentDAO {
 
     // Database configuration
     private static final String DB_URL = "jdbc:mysql://localhost:3306/student_management";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "0919329900Phuc_C";
+    private static final String DB_PASSWORD = "1234567";
 
     // Get database connection
     private Connection getConnection() throws SQLException {

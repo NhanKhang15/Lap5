@@ -7,5 +7,6 @@ C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\demo\student-man
 C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\demo\student-management-mvc\src\main\java\com\student\dao\UserDAO.java
 C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\demo\student-management-mvc\src\main\java\com\student\dao\StudentDAO.java
 C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\demo\student-management-mvc\src\main\java\com\student\controller\LoginController.java
+C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\demo\student-management-mvc\src\main\java\com\student\controller\ChangePasswordController.java
 C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\demo\student-management-mvc\src\main\java\com\student\libraries\HashJBCrypt.java
 C:\Program Files\Apache Software Foundation\Tomcat 11.0\webapps\demo\student-management-mvc\src\main\java\com\student\controller\StudentController.java

@@ -5,6 +5,7 @@ com\student\dao\UserDAO.class
 com\student\model\User.class
 com\student\controller\LogoutController.class
 com\student\controller\LoginController.class
+com\student\controller\ChangePasswordController.class
 com\student\controller\StudentController.class
 com\student\controller\DashboardController.class
 com\student\libraries\HashJBCrypt.class
